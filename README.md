@@ -108,4 +108,7 @@ Created by **Team Aether** from **BRAC University, Dhaka, Bangladesh** for the *
 1. Clone the repository:
    ```bash
    git clone [https://github.com/rakat2002/Team-Aether_NasaSpaceAppChallenge2026.git](https://github.com/rakat2002/Team-Aether_NasaSpaceAppChallenge2026.git)
-   cd Team-Aether_NasaSpaceAppChallenge2026
+   cd Team-Aether_NasaSpaceAppChallenge2026/astrorelics-space-kids
+2. npm install
+3. npm run dev
+
